@@ -7,4 +7,4 @@
   <h2>INFORMATION</h2>
   <p>It is in a batch file (.bat)</p>
   <p>Only works at windows</p>
-  <p>If clicked, it will close all tabs in all browsers and will open the PUP website with a popup, "Welcome to PUP"</p>
+  <p>If doubled clicked, it will close all tabs in all browsers and will open the PUP website with a popup, "Welcome to PUP"</p>
